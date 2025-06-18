@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\annas\source\repos\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\
+C:\Need\Coding\Repositories\Schedule\waeraerarear\Module 3\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\
 WpfApp2
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\annas\source\repos\WpfApp2\WpfApp2\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Need\Coding\Repositories\Schedule\waeraerarear\Module 3\WpfApp2\WpfApp2\App.xaml
 61352870318
 
 18-590376564
-2121248175420
+212325714140
 MainWindow.xaml;Pages\AdminPage.xaml;Pages\AuthPage.xaml;Pages\UserPage.xaml;Windows\EditUserWindow.xaml;Windows\SwitchPasswordWindow.xaml;
 
 True
