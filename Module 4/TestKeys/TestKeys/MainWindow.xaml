@@ -5,8 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestKeys"
         mc:Ignorable="d"
-        Title="Валидация данных" Height="
-        250" Width="700">
+        Title="Валидация данных" Height="250" Width="700">
     <Grid>
         <StackPanel>
             <Grid Margin="35 35 0 0">
@@ -16,7 +15,7 @@
                 </Grid.ColumnDefinitions>
 
                 <Button x:Name="GetDataBtn" Grid.Column="0" VerticalAlignment="Center" HorizontalContentAlignment="Center"
-                    Padding="10" Margin="0" Content="Получить данные" Click="GetDataBtn_Click"/>
+            Padding="10" Margin="0" Content="Получить данные" Click="GetDataBtn_Click"/>
                 <Label x:Name="EmailBox" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30"/>
             </Grid>
 
@@ -27,9 +26,9 @@
                 </Grid.ColumnDefinitions>
 
                 <Button x:Name="PostResultBtn" Grid.Column="0" VerticalAlignment="Center" HorizontalContentAlignment="Center"
-                    Padding="10" Margin="0" Content="Отправить результат теста" Click="PostResultBtn_Click"/>
+            Padding="10" Margin="0" Content="Отправить результат теста" Click="PostResultBtn_Click"/>
                 <Label x:Name="ResponseBox" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             </Grid>
-        </StackPanel>
+        </StackPanel> 
     </Grid>
 </Window>

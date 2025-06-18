@@ -1,12 +1,103 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Need\\Coding\\Repositories\\Schedule\\ekzamen\\Module 4\\TestKeys\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\annas\\source\\repos\\TestKeys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|c:\\users\\annas\\source\\repos\\testkeys\\testkeys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|solutionrelative:testkeys\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|c:\\users\\annas\\source\\repos\\testkeys\\testkeys\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|solutionrelative:testkeys\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|c:\\users\\annas\\source\\repos\\testkeys\\testkeys\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|solutionrelative:testkeys\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|c:\\users\\annas\\source\\repos\\testkeys\\testkeys\\testkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|solutionrelative:testkeys\\testkeys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|c:\\users\\annas\\source\\repos\\testkeys\\testkeys\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4242365D-AD8E-4422-A25B-4EB23F24F9B4}|TestKeys\\TestKeys.csproj|solutionrelative:testkeys\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestKeys",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\TestKeys.csproj",
+              "RelativeDocumentMoniker": "TestKeys\\TestKeys.csproj",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\TestKeys.csproj",
+              "RelativeToolTip": "TestKeys\\TestKeys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T17:15:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TestKeys\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TestKeys\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:13:57.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "TestKeys\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\ResponseModel.cs",
+              "RelativeToolTip": "TestKeys\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:29:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TestKeys\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\MainWindow.xaml",
+              "RelativeToolTip": "TestKeys\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T17:13:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\App.xaml",
+              "RelativeDocumentMoniker": "TestKeys\\App.xaml",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\TestKeys\\TestKeys\\App.xaml",
+              "RelativeToolTip": "TestKeys\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T17:15:26.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

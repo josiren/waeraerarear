@@ -1,68 +1,22 @@
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.ResolveComReference.cache
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.cache
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.lref
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.exe
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.deps.json
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.runtimeconfig.json
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.dll
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.pdb
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.g.resources
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfoInputs.cache
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfo.cs
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.CoreCompileInputs.cache
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.dll
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\refint\TestKeys.dll
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.pdb
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.genruntimeconfig.cache
-C:\Users\student20\Desktop\EKZAMEN\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\ref\TestKeys.dll
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.exe
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.deps.json
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.runtimeconfig.json
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.dll
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.pdb
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.ResolveComReference.cache
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.cache
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.lref
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.g.resources
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfoInputs.cache
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfo.cs
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.CoreCompileInputs.cache
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.sourcelink.json
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.dll
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\refint\TestKeys.dll
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.pdb
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.genruntimeconfig.cache
-C:\Users\annas\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\ref\TestKeys.dll
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.exe
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.deps.json
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.runtimeconfig.json
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.dll
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.pdb
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.ResolveComReference.cache
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\App.g.cs
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.cache
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.lref
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.g.resources
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.GeneratedMSBuildEditorConfig.editorconfig
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfoInputs.cache
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfo.cs
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.CoreCompileInputs.cache
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.sourcelink.json
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.dll
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\refint\TestKeys.dll
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.pdb
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.genruntimeconfig.cache
-C:\Need\Coding\Repositories\Schedule\ekzamen\Module 4\TestKeys\TestKeys\obj\Debug\net8.0-windows\ref\TestKeys.dll
+C:\Users\annas\source\repos\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.exe
+C:\Users\annas\source\repos\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.deps.json
+C:\Users\annas\source\repos\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.runtimeconfig.json
+C:\Users\annas\source\repos\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.dll
+C:\Users\annas\source\repos\TestKeys\TestKeys\bin\Debug\net8.0-windows\TestKeys.pdb
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.ResolveComReference.cache
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.cache
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys_MarkupCompile.lref
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.g.resources
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfoInputs.cache
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.AssemblyInfo.cs
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.csproj.CoreCompileInputs.cache
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.dll
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\refint\TestKeys.dll
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.pdb
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\TestKeys.genruntimeconfig.cache
+C:\Users\annas\source\repos\TestKeys\TestKeys\obj\Debug\net8.0-windows\ref\TestKeys.dll
